@@ -1,0 +1,19 @@
+﻿  DrawView.cpp
+G:\Draw - 副本\Draw\DrawView.cpp(802,31): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+G:\Draw - 副本\Draw\DrawView.cpp(836,32): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+G:\Draw - 副本\Draw\DrawView.cpp(837,34): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+G:\Draw - 副本\Draw\DrawView.cpp(763,7): warning C4101: “ptWid”: 未引用的局部变量
+G:\Draw - 副本\Draw\DrawView.cpp(763,14): warning C4101: “ptLen”: 未引用的局部变量
+G:\Draw - 副本\Draw\DrawView.cpp(762,12): warning C4101: “sgn2”: 未引用的局部变量
+G:\Draw - 副本\Draw\DrawView.cpp(762,6): warning C4101: “sgn1”: 未引用的局部变量
+G:\Draw - 副本\Draw\DrawView.cpp(1394,32): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+G:\Draw - 副本\Draw\DrawView.cpp(1412,35): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+G:\Draw - 副本\Draw\DrawView.cpp(1432,33): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+G:\Draw - 副本\Draw\DrawView.cpp(1433,35): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+G:\Draw - 副本\Draw\DrawView.cpp(1452,35): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+G:\Draw - 副本\Draw\DrawView.cpp(1453,37): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+G:\Draw - 副本\Draw\DrawView.cpp(1290,15): warning C4101: “ptWid”: 未引用的局部变量
+G:\Draw - 副本\Draw\DrawView.cpp(1291,12): warning C4101: “sgn2”: 未引用的局部变量
+G:\Draw - 副本\Draw\DrawView.cpp(1290,7): warning C4101: “ptLen”: 未引用的局部变量
+G:\Draw - 副本\Draw\DrawView.cpp(1291,6): warning C4101: “sgn1”: 未引用的局部变量
+  Draw.vcxproj -> G:\Draw - 副本\x64\Debug\Draw.exe

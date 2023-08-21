@@ -1,0 +1,9 @@
+﻿  DrawView.cpp
+C:\Users\gsy\source\repos\Draw\Draw\Draw\DrawView.cpp(858,31): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\gsy\source\repos\Draw\Draw\Draw\DrawView.cpp(879,32): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\gsy\source\repos\Draw\Draw\Draw\DrawView.cpp(880,34): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\gsy\source\repos\Draw\Draw\Draw\DrawView.cpp(1412,20): warning C4805: “==”: 在操作中将类型“BOOL”与类型“bool”混合不安全
+C:\Users\gsy\source\repos\Draw\Draw\Draw\DrawView.cpp(1367,7): warning C4101: “ptWid”: 未引用的局部变量
+C:\Users\gsy\source\repos\Draw\Draw\Draw\DrawView.cpp(1366,12): warning C4101: “sgn2”: 未引用的局部变量
+C:\Users\gsy\source\repos\Draw\Draw\Draw\DrawView.cpp(1366,6): warning C4101: “sgn1”: 未引用的局部变量
+  Draw.vcxproj -> C:\Users\gsy\source\repos\Draw\Draw\x64\Debug\Draw.exe

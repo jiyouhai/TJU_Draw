@@ -1,0 +1,5 @@
+﻿  DrawView.cpp
+C:\Users\hi\Desktop\Draw\Draw\DrawView.cpp(827,31): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\hi\Desktop\Draw\Draw\DrawView.cpp(848,32): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\hi\Desktop\Draw\Draw\DrawView.cpp(849,34): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+  Draw.vcxproj -> C:\Users\hi\Desktop\Draw\Debug\Draw.exe
